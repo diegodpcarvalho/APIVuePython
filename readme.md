@@ -14,17 +14,16 @@ Este projeto implementa uma **API Flask** para buscar informações em um arquiv
 ## 📂 Estrutura do Projeto  
 
 ```bash
-📁 meu-projeto/
-│── 📂 backend/            # API em Flask
+ 📂 APIVuePython/            # API em Flask
 │   ├── main.py           # Código principal da API
 │   ├── Relatorio_cadop.csv # Base de dados usada para busca
-│── 📂 frontend/           # Aplicação Vue.js
+│── 📂 front-end/           # Aplicação Vue.js
 │   ├── src/
 │   │   ├── components/
 │   │   │   ├── BuscarDados.vue  # Componente Vue que faz a busca
 │   ├── App.vue           # Componente raiz Vue
 │── README.md             # Documentação do projeto
-
+```
 ## ⚙️ Como Executar
 1️⃣ Rodando o Backend (Flask)
 Pré-requisitos: Python instalado
