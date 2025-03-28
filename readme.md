@@ -14,7 +14,7 @@ Este projeto implementa uma **API Flask** para buscar informações em um arquiv
 ## 📂 Estrutura do Projeto  
 
 ```bash
- 📂 APIVuePython/            # API em Flask
+|── 📂 APIVuePython/            # API em Flask
 │   ├── main.py           # Código principal da API
 │   ├── Relatorio_cadop.csv # Base de dados usada para busca
 │── 📂 front-end/           # Aplicação Vue.js
